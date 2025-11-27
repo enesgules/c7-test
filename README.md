@@ -1,5 +1,3 @@
-# c7-test
-
 # 🚀 SuperAwesome.js - The Framework That Makes Developers Question Their Life Choices
 
 > "It's not a bug, it's a feature." - Everyone, all the time
